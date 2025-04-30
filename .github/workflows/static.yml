@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KISS Maintenance</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>KISS MAINTENANCE</h1>
+    <p>Votre expert en maintenance informatique !</p>
+  </header>
+
+  <section class="services">
+    <h2>Dépannage – Installation – Optimisation</h2>
+    <ul>
+      <li>✅ Réparation PC & Mac</li>
+      <li>✅ Nettoyage de virus & optimisation</li>
+      <li>✅ Installation de logiciels & périphériques</li>
+      <li>✅ Sauvegarde & récupération de données</li>
+      <li>✅ Assistance à distance ou sur site</li>
+      <li>✅ Maintenance pour particuliers & professionnels</li>
+    </ul>
+  </section>
+
+  <section class="avantages">
+    <h3>Un problème ? Une solution simple et rapide !</h3>
+    <p>🚀 Intervention rapide – 💰 Prix transparents</p>
+  </section>
+
+  <section class="contact">
+    <h3>Contactez-nous dès maintenant :</h3>
+    <p>📧 toffoedocyriaque@gmail.com</p>
+    <p>📱 01 50 29 25 95</p>
+    <p>🌐 www.kissmaintenance.com</p>
+    <p>📍 Disponible à Abomey-Calavi</p>
+  </section>
+
+  <footer>
+    <p>🧠 KISS = Keep IT Smart & Simple</p>
+    <p>La maintenance informatique en toute simplicité.</p>
+  </footer>
+
+</body>
+</html>
